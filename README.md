@@ -30,6 +30,8 @@ git clone https://github.com/KiseraTimon/Java-Streams-Functions-Interface.git
 2. Compile & Run
 ```bash
 javac *.java
+```
+```bash
 java EmployeeDataProcessor
 ```
 
@@ -75,7 +77,7 @@ Filtered Average Salary: $72500.00
 └── README.md                 # Documentation
 ```
 
-🎯 Key Advantages
+## 🎯 Key Advantages
 
 - Efficient memory usage through stream pipelining
 - Lazy evaluation for optimal performance
@@ -83,10 +85,31 @@ Filtered Average Salary: $72500.00
 - Easy extensibility for new features
 - Type-safe operations with Java generics
 
-🛠️ Additional Features
+## 🛠️ Additional Features
 
 - Dynamic predicate generation for filters
 - Configurable age thresholds
 - Error handling for empty results
 - Formatted financial output
 - Reusable utility methods
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+This README features:
+- Clean visual hierarchy with emoji markers
+- Code syntax highlighting
+- Badges for quick info scanning
+- Clear section separation
+- Mobile-friendly formatting
+- Comprehensive feature listing
+- Easy-to-follow setup instructions
+- Visual project structure breakdown
+
+You can enhance it further by:
+1. Adding screenshots in an `/images` folder
+2. Including CI/CD pipeline badges
+3. Adding a code coverage report
+4. Incorporating UML diagrams
+5. Adding a changelog section
